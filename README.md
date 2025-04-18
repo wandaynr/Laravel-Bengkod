@@ -12,7 +12,7 @@ NIM  : A11.2022.14239
 1. Clone repositori:
 ```bash
 git clone https://github.com/wandaynr/Laravel-Bengkod.git
-cd Laravel-Bwngkod
+cd Laravel-Bengkod
 ```
 
 2. Install dependensi PHP:
