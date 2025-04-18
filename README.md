@@ -111,3 +111,26 @@ Anda dapan memastikan apakah fungsi RBAC berfungsi atau tidak dengan:
 2. Login sebagai pasien - route /pasien/* dapat diakses tetapi route /dokter/* tidak dapat diakses
 3. User ilegal - Otomatis redirect ke halaman login jika membuka halaman yang memerlukan login
 
+
+### Screenshot akses ditolak
+1.  ![Akses Ditolak - Dokter](TSS/T1.jpg)
+Dokter ketika mencoba mengakses halaman pasien
+
+### Halaman Publik
+2. Landing Page
+![Landing Page](TSS/T2.jpg)
+Halaman awal website yang dapat diakses publik
+
+3. Halaman Login
+![Login Page](TSS/T3.jpg) 
+Halaman login untuk dokter dan pasien
+
+4. Halaman Register 
+![Register Page](TSS/T4.png)
+Halaman pendaftaran untuk pasien baru
+
+### Halaman Pasien
+5. Dashboard
+![Dashboard Pasien](TSS/T5.jpg)
+Halaman dashboard untuk Pasien
+
