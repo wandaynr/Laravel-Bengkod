@@ -126,7 +126,7 @@ Halaman awal website yang dapat diakses publik
 Halaman login untuk dokter dan pasien
 
 4. Halaman Register 
-![Register Page](TSS/T4.png)
+![Register Page](TSS/T4.jpg)
 Halaman pendaftaran untuk pasien baru
 
 ### Halaman Pasien
