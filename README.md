@@ -3,16 +3,16 @@
 Repositori tugas bengkel koding website sismenkes dengan laravel.
 
 ```
-Nama : Heryawan Eko Saputro
-NIM  : A11.2022.14237
+Nama : Wanda Yuniar
+NIM  : A11.2022.14239
 ```
 
 ## Cara menjalankan projek secara lokal
 
 1. Clone repositori:
 ```bash
-git clone https://github.com/yourusername/RavaelaBkod.git
-cd RavaelaBkod
+git clone https://github.com/wandaynr/Laravel-Bengkod.git
+cd Laravel-Bwngkod
 ```
 
 2. Install dependensi PHP:
