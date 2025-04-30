@@ -136,6 +136,6 @@ Halaman dashboard untuk Pasien
 
 ### Halaman Doktor
 6. Dashboard
-![Dashboard Pasien](TSS/T6.png)
+![Dashboard Dokter](TSS/T6.png)
 Halaman dashboard untuk Dokter
 
