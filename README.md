@@ -134,7 +134,7 @@ Halaman pendaftaran untuk pasien baru
 ![Dashboard Pasien](TSS/T5.jpg)
 Halaman dashboard untuk Pasien
 
-### Halaman Doktor
+### Halaman Dokter
 6. Dashboard
 ![Dashboard Dokter](TSS/T6.png)
 Halaman dashboard untuk Dokter
